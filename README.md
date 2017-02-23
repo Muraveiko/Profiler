@@ -1,5 +1,5 @@
 # Profiler
-add PHPQuickProfiler for CodeIgniter
+add PHPQuickProfiler for CodeIgniter >=2.1.4
 
 Выкусил очень удобную консоль отладки из Bonfire.
 
