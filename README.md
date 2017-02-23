@@ -6,3 +6,7 @@ add PHPQuickProfiler for CodeIgniter >=2.1.4
 Долить файлы в свой проект.
 
 Перенести настройки из примеров конфигурационных файлов application/config/xxx.profiler.dist.php
+
+*ТОДО*
+
+Профилер цепляется также к ajax запросам. Хук этого не учитывает
